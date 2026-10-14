@@ -1,0 +1,15 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.zip
+*.log
+/data/
+
+data/
+dump.rdb
